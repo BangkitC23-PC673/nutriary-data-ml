@@ -1,0 +1,59 @@
+{
+    "filename": "compact_data_clean.csv",
+    "NumberofRows": 1148,
+    "Numberoffields": 10,
+    "Format": {
+        "type": "tabular",
+        "Separators": ","
+    },
+    "fields": {
+        "kode": {
+            "type": "string",
+            "uniquevals": 1148
+        },
+        "nama_bahan_makanan": {
+            "type": "string",
+            "uniquevals": 1148
+        },
+        "energi_kal": {
+            "type": "numeric",
+            "max": 902.0,
+            "min": 8.0
+        },
+        "protein_g": {
+            "type": "numeric",
+            "max": 74.3,
+            "min": 0.0
+        },
+        "lemak_g": {
+            "type": "numeric",
+            "max": 100.0,
+            "min": 0.0
+        },
+        "karbohidrat_g": {
+            "type": "numeric",
+            "max": 94.0,
+            "min": 0.0
+        },
+        "serat_g": {
+            "type": "numeric",
+            "max": 46.5,
+            "min": 0.0
+        },
+        "kalsium_mg": {
+            "type": "numeric",
+            "max": 972.0,
+            "min": 0.0
+        },
+        "besi_mg": {
+            "type": "numeric",
+            "max": 96.4,
+            "min": 0.0
+        },
+        "natrium_mg": {
+            "type": "numeric",
+            "max": 980.0,
+            "min": 0.0
+        }
+    }
+}
